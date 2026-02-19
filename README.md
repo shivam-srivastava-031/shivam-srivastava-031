@@ -82,14 +82,6 @@ Modern portfolio website showcasing projects, skills, and technical journey with
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam-srivastava-031&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 <!-- 🔥 PREMIUM FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=140&section=footer" />
