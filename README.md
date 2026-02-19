@@ -1,5 +1,17 @@
-<h1 align="center">Hi 👋, I'm Shivam</h1>
-<h3 align="center">Computer Science Student | Web Developer | Problem Solver</h3>
+<!-- 🔥 PREMIUM HACKER HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=220&section=header&text=Shivam%20Srivastava&fontSize=42&fontColor=38BDF8&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Problem%20Solver&descAlignY=65" />
+</p>
+
+<!-- 👁 Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivam-srivastava-031&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<!-- ⌨ Hacker Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&center=true&vCenter=true&lines=Computer+Science+Student;Web+Developer;React+%7C+Node.js+Enthusiast;DSA+Learner;Building+Cool+Projects" />
+</p>
 
 ---
 
@@ -7,69 +19,78 @@
 
 🎓 Computer Science Student  
 💻 Passionate about Web Development & Problem Solving  
-🚀 Currently Learning: **React, Node.js, Data Structures & Algorithms (DSA)**  
+🚀 Currently Learning **React, Node.js & Data Structures (DSA)**  
 
-I enjoy building practical applications, exploring modern web technologies, and continuously improving my development skills.
+I love building practical applications, experimenting with modern technologies, and constantly improving my development skills.
 
 ---
 
-## 🛠 Tech Stack
+## ⚡ Tech Arsenal
 
-### 💡 Languages
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-
-### ⚙ Backend
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-### 🗄 Database
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode" />
+</p>
 
 ---
 
 ## 🚀 Projects
 
-🔹 **Disposable mail generator** – A web application that generates temporary email addresses for receiving messages without exposing personal inboxes. Designed to enhance privacy, prevent spam, and support anonymous email usage.   
-https://disposable-mail-generator.vercel.app/
-
-🔹 **Apex-Arena** – Apex Arena is a comprehensive gaming platform that enables:
-User registration and authentication
-Team creation and management
-Tournament organization and participation
-Player statistics tracking and rankings
-Real-time tournament updates and notifications
-This is a modern, well-structured gaming tournament platform with professional-grade security, scalability, and developer experience in mind!
-https://apex-arena-sepia.vercel.app/
-
-🔹 **Personal-Portfolio** –🚀 My personal portfolio website — a sleek, interactive showcase of my projects, skills, and tech journey. Built with [HTML, CSS, JavaScript, React, etc.], it’s designed to highlight creativity, problem-solving, and hands-on experience. Explore my work, connect with me, and see what I can build!
-https://shivam-personal-portfolio.vercel.app/
+🔹 **Disposable Mail Generator**  
+Privacy-focused web application for generating temporary email addresses to prevent spam and protect user identity.  
+🌐 https://disposable-mail-generator.vercel.app/
 
 ---
 
-## 📫 Connect With Me
+🔹 **Apex Arena**  
+Gaming tournament platform with authentication, team management, rankings, and real-time updates. Designed with scalability and structured architecture.  
+🌐 https://apex-arena-sepia.vercel.app/
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN](https://www.linkedin.com/in/shivam-kumar-srivastava-675893211/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome)]([YOUR_PORTFOLIO](https://shivam-personal-portfolio.vercel.app/))
+---
+
+🔹 **Personal Portfolio**  
+Modern portfolio website showcasing projects, skills, and technical journey with a clean and responsive UI.  
+🌐 https://shivam-personal-portfolio.vercel.app/
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect With Me
 
-## 📊 GitHub Stats
-
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam-srivastava-031&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-srivastava-031&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shivam-srivastava-031&theme=tokyonight)
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivam-kumar-srivastava-675893211/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:shivamsrivastava031@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
+
+## 📊 GitHub Intelligence
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivam-srivastava-031&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-srivastava-031&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shivam-srivastava-031&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam-srivastava-031&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<!-- 🔥 PREMIUM FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=140&section=footer" />
+</p>
