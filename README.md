@@ -69,15 +69,23 @@ Modern portfolio website showcasing projects, skills, and technical journey with
 ## 📊 GitHub Intelligence
 
 <p align="center">
-  <img height="170" src="https://gh-readme-stats.hackclub.dev/api?username=shivam-srivastava-031&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivam-srivastava-031&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://gh-readme-stats.hackclub.dev/api/top-langs/?username=shivam-srivastava-031&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-srivastava-031&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-srivastava-031&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=shivam-srivastava-031&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam-srivastava-031&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
