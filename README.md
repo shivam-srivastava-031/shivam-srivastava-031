@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0f172a,100:020c1b&height=280&section=header&text=SHIVAM%20SRIVASTAVA&fontSize=48&fontColor=38BDF8&animation=fadeIn&stroke=0ea5e9&strokeWidth=1&desc=◈%20Full%20Stack%20Engineer%20◈%20Systems%20Architect%20◈%20DSA%20Practitioner%20◈&descAlignY=70&descSize=14&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0f172a,100:020c1b&height=280&section=header&text=SHIVAM%20Kumar%20SRIVASTAVA&fontSize=48&fontColor=38BDF8&animation=fadeIn&stroke=0ea5e9&strokeWidth=1&desc=◈%20Full%20Stack%20Engineer%20◈%20Systems%20Architect%20◈%20DSA%20Practitioner%20◈&descAlignY=70&descSize=14&fontAlignY=40" />
 
 </div>
 
