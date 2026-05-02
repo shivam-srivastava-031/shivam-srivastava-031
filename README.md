@@ -10,13 +10,12 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  root@shivam:~$ whoami                                                   ║
-║  > Full Stack Developer. Problem Solver. Builder of things that matter.  ║
-║  root@shivam:~$ status                                                   ║
-║  > Online | Actively building | Open to collaborations                   ║
-╚══════════════════════════════════════════════════════════════════════════╝
+```bash
+$ whoami
+> Full Stack Developer. Problem Solver. Builder of things that matter.
+
+$ status
+> Online | Actively building | Open to collaborations
 ```
 
 </div>
@@ -37,7 +36,7 @@
 
 <div align="center">
 
-## `> SYSTEM PROFILE`
+## 👨‍💻 System Profile
 
 </div>
 
@@ -70,7 +69,7 @@ available_for:
 
 <div align="center">
 
-## `> TECH ARSENAL`
+## 🛠️ Tech Arsenal
 
 </div>
 
@@ -111,7 +110,7 @@ available_for:
 
 <div align="center">
 
-## `> DEPLOYED PROJECTS`
+## 🚀 Deployed Projects
 
 </div>
 
@@ -193,7 +192,7 @@ Stay tuned. Watch the repo for updates.
 
 <div align="center">
 
-## `> GITHUB INTELLIGENCE`
+## 📊 GitHub Intelligence
 
 </div>
 
@@ -216,7 +215,7 @@ Stay tuned. Watch the repo for updates.
 
 <div align="center">
 
-## `> ACHIEVEMENTS`
+## 🏆 Achievements
 
 <img src="https://github-profile-trophy.vercel.app/?username=shivam-srivastava-031&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 
@@ -226,7 +225,7 @@ Stay tuned. Watch the repo for updates.
 
 <div align="center">
 
-## `> OPEN CHANNELS`
+## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kumar-srivastava-675893211/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
@@ -239,17 +238,12 @@ Stay tuned. Watch the repo for updates.
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   "First, solve the problem.                             ║
-║    Then, write the code."                                ║
-║                                           — John Johnson ║
-║                                                          ║
-║   root@shivam:~$ shutdown -h never                       ║
-║   > Session persistent. Always building.                 ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+```bash
+> "First, solve the problem. Then, write the code." 
+> — John Johnson
+
+$ shutdown -h never
+> Session persistent. Always building.
 ```
 
 </div>
