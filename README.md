@@ -197,12 +197,12 @@ Stay tuned. Watch the repo for updates.
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivam-srivastava-031&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=0ea5e9&text_color=94a3b8&ring_color=0ea5e9" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shivam-srivastava-031&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=0ea5e9&text_color=94a3b8&ring_color=0ea5e9" />
   <img width="49%" src="https://streak-stats.demolab.com?user=shivam-srivastava-031&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=0ea5e9&currStreakLabel=38BDF8&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-srivastava-031&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=94a3b8&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shivam-srivastava-031&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=94a3b8&langs_count=8" />
 </div>
 
 <br/>
