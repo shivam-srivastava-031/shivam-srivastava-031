@@ -127,7 +127,7 @@ available_for:
 <div align="center">
 
 <a href="https://github.com/shivam-srivastava-031/Dev-audio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivam-srivastava-031&repo=Dev-audio&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=f59e0b&text_color=94a3b8" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shivam-srivastava-031&repo=Dev-audio&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=f59e0b&text_color=94a3b8" />
 </a>
 
 </div>
@@ -272,12 +272,12 @@ Stay tuned. Watch the repo for updates.
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivam-srivastava-031&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=0ea5e9&text_color=94a3b8&ring_color=0ea5e9" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivam-srivastava-031&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=0ea5e9&text_color=94a3b8&ring_color=0ea5e9" />
   <img width="49%" src="https://streak-stats.demolab.com?user=shivam-srivastava-031&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=0ea5e9&currStreakLabel=38BDF8&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-srivastava-031&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=94a3b8&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivam-srivastava-031&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=94a3b8&langs_count=8" />
 </div>
 
 <br/>
@@ -286,15 +286,7 @@ Stay tuned. Watch the repo for updates.
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivam-srivastava-031&bg_color=020617&color=38BDF8&line=0ea5e9&point=e2e8f0&area=true&area_color=0f172a&hide_border=true&custom_title=◈%20Contribution%20Activity%20Graph" />
 </div>
 
-<br/>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivam-srivastava-031/shivam-srivastava-031/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivam-srivastava-031/shivam-srivastava-031/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shivam-srivastava-031/shivam-srivastava-031/output/github-snake.svg" width="95%" />
-  </picture>
-</div>
 
 ---
 
@@ -302,7 +294,9 @@ Stay tuned. Watch the repo for updates.
 
 ## 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=shivam-srivastava-031&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=shivam-srivastava-031&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&margin-h=15" />
+
+> _If trophies don't load, the service may be temporarily down — they will auto-recover._
 
 </div>
 
