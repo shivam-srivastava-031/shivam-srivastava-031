@@ -92,6 +92,7 @@ available_for:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 **— BACKEND & DATABASE —**
 
@@ -99,6 +100,8 @@ available_for:
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 **— AI / ML —**
 
@@ -106,13 +109,16 @@ available_for:
 ![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-5A29E4?style=for-the-badge&logo=tesseract&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_TTS-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-**— TOOLS & ENVIRONMENT —**
+**— DEVOPS & TOOLS —**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </div>
 
@@ -286,7 +292,19 @@ Stay tuned. Watch the repo for updates.
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivam-srivastava-031&bg_color=020617&color=38BDF8&line=0ea5e9&point=e2e8f0&area=true&area_color=0f172a&hide_border=true&custom_title=◈%20Contribution%20Activity%20Graph" />
 </div>
 
+---
 
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivam-srivastava-031/shivam-srivastava-031/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivam-srivastava-031/shivam-srivastava-031/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shivam-srivastava-031/shivam-srivastava-031/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
 
 ---
 
@@ -296,7 +314,17 @@ Stay tuned. Watch the repo for updates.
 
 <img src="https://github-profile-trophy.vercel.app/?username=shivam-srivastava-031&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&margin-h=15" />
 
-> _If trophies don't load, the service may be temporarily down — they will auto-recover._
+</div>
+
+---
+
+<div align="center">
+
+## 🧠 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shivam-srivastava-031/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/shivam-srivastava-031/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/shivam_srivast31)
 
 </div>
 
@@ -306,9 +334,22 @@ Stay tuned. Watch the repo for updates.
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kumar-srivastava-675893211/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=38bdf8)](https://shivam-personal-portfolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivam-srivastava-031)
+<a href="https://www.linkedin.com/in/shivam-kumar-srivastava-675893211/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://shivam-personal-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=38bdf8" />
+</a>
+<a href="https://github.com/shivam-srivastava-031">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://twitter.com/">
+  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<br/><br/>
+
+💬 **Got a project idea or just want to chat tech?** Reach out — I'm always open to interesting conversations and collaborations.
 
 </div>
 
@@ -316,17 +357,28 @@ Stay tuned. Watch the repo for updates.
 
 <div align="center">
 
-```bash
-> "First, solve the problem. Then, write the code." 
-> — John Johnson
+## 💡 Dev Wisdom
 
-$ shutdown -h never
-> Session persistent. Always building.
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" />
+
+<br/>
+
+```bash
+$ uptime
+> 365 days, 0 hours — Session persistent. Always building.
+
+$ cat /etc/motd
+> "The best error message is the one that never shows up."
+> — Thomas Fuchs
 ```
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:020c1b&height=140&section=footer&reversal=false" />
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:020c1b&height=140&section=footer&reversal=false" width="100%" />
+</div>
 
 <!-- ████████████████████████████████████████████████████████████████████████ -->
 <!--                    EOF — SYSTEM SHUTDOWN SEQUENCE                       -->
