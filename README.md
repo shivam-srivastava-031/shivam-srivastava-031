@@ -211,14 +211,12 @@ Stay tuned. Watch the repo for updates.
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivam-srivastava-031&bg_color=020617&color=38BDF8&line=0ea5e9&point=e2e8f0&area=true&area_color=0f172a&hide_border=true&custom_title=◈%20Contribution%20Activity%20Graph" />
 </div>
 
----
-
 <div align="center">
-  ## 🏆 Achievements
-  <img src="https://github-profile-trophy.vercel.app/?username=shivam-srivastava-031&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-  
-</div>
----
+
+## 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=shivam-srivastava-031&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
 
 <div align="center">
 
