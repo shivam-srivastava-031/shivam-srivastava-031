@@ -214,13 +214,10 @@ Stay tuned. Watch the repo for updates.
 ---
 
 <div align="center">
-
-## 🏆 Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=shivam-srivastava-031&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
+  ## 🏆 Achievements
+  <img src="https://github-profile-trophy.vercel.app/?username=shivam-srivastava-031&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  
 </div>
-
 ---
 
 <div align="center">
